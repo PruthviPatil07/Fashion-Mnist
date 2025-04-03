@@ -40,14 +40,13 @@ pip install numpy pandas matplotlib tensorflow keras
 - Achieved competitive accuracy on the test set.
 
 ## Results
-- Training Accuracy: **X%**
-- Test Accuracy: **Y%**
+- Training Accuracy: **97%**
+- Test Accuracy: **97%**
 
 ## Future Improvements
 - Implement data augmentation to enhance model robustness.
 - Experiment with different architectures like ResNet or EfficientNet.
 
 ## Author
-[Your Name]  
-[Your GitHub Profile]
+Pruthviraj Patil 
 
